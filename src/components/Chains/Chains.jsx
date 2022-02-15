@@ -36,11 +36,6 @@ const menuItems = [
     value: "Polygon",
     icon: <PolygonLogo />,
   },
-  {
-    key: "0x61",
-    value: "Smart Chain Testnet",
-    icon: <BSCLogo />,
-  },
 ];
 
 function Chains() {
