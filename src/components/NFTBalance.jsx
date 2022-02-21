@@ -98,7 +98,7 @@ function NFTBalance() {
                     <Tooltip title="Transfer NFT">
                       <SendOutlined onClick={() => handleTransferClick(nft)} />
                     </Tooltip>,
-                    <Tooltip title="Sell On OpenSea">
+                    <Tooltip title="Sell On Marketplace">
                       <ShoppingCartOutlined
                         onClick={() => alert("MARKETPLACE INTEGRATION COMING!")}
                       />
